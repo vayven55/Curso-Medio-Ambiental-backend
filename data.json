@@ -1,0 +1,31 @@
+[
+    {
+        "fase1":{
+        "primera1": "equipo",
+        "segunda1": "equipos docentes."
+        },
+        "fase2":{
+        "primera2": "la sesión informativa",
+        "segunda2": "revisión",
+        "tercera2": "actualización",
+        "cuarta2": "métodos de trabajo."
+        },
+        "fase3": {
+            "primera3": "Definición del proyecto",
+            "segunda3": "contenidos",
+            "tercera3": "actividades"
+        },
+        "fase4": {
+            "primera4": "Práctica en el centro",
+            "segunda4": "el proyecto educativo"
+
+        },
+        "fase5": {
+            "primera5": "memoria",
+            "segunda5": "compartir",
+            "tercera5": "experiencia en red"
+
+        }    
+
+    }
+]
